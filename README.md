@@ -17,7 +17,7 @@ Analista de datos con Certificado Profesional de Análisis de Datos de Google y 
 
 ##  Proyectos Destacados
 
-### 1. [Velonox - Plataforma E-commerce](https://github.com/Afelipecanop/E-commerce-con-FastAPI-y-PostgreQSL))
+### 1. [Velonox - Plataforma E-commerce](https://github.com/Afelipecanop/E-commerce-con-FastAPI-y-PostgreQSL)
 *   **Descripción:** Diseño y construcción de una plataforma web comercial de extremo a extremo, enfocada en la optimización de ventas y velocidad de carga.
 *   **Tecnologías:** Desarrollo Full-Stack, gestión y negociación de dominios, integración de APIs logísticas y de ventas.
 *   **Enfoque de Datos:** Implementación de métricas de conversión y comportamiento de usuarios para la toma de decisiones estratégicas.
