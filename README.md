@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/Portafolio-GitHub-8A8F98?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
----
  
 ## Español
  
@@ -86,7 +85,6 @@ Perfil autodidacta, con pensamiento crítico y curiosidad intelectual. **Disponi
 - **Portafolio / Web:** [github.com/Afelipecanop](https://github.com/Afelipecanop)
 - **Email:** [Canos184@gmail.com](mailto:Canos184@gmail.com)
 <p align="right"><a href="#top">⬆️ Volver arriba / Back to top</a></p>
----
  
 ## English
  
