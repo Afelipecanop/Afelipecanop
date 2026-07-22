@@ -51,6 +51,7 @@ Perfil autodidacta, con pensamiento crítico y curiosidad intelectual. **Disponi
   <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-333333?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
+
 ### 📌 Proyectos destacados
  
 <table>
@@ -69,6 +70,7 @@ Perfil autodidacta, con pensamiento crítico y curiosidad intelectual. **Disponi
     </td>
   </tr>
 </table>
+
 ### 📈 Estadísticas de GitHub
  
 <p align="center">
@@ -116,6 +118,7 @@ Self-taught profile with strong critical thinking and intellectual curiosity. **
   <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-333333?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
+
 ### 📌 Featured projects
  
 <table>
@@ -134,6 +137,7 @@ Self-taught profile with strong critical thinking and intellectual curiosity. **
     </td>
   </tr>
 </table>
+
 ### 📈 GitHub stats
  
 <p align="center">
@@ -143,6 +147,7 @@ Self-taught profile with strong critical thinking and intellectual curiosity. **
   <img src="https://github-readme-stats.vercel.app/api?username=Afelipecanop&show_icons=true&theme=default&hide_border=true&title_color=333333&icon_color=6E7681&text_color=555555" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afelipecanop&layout=compact&theme=default&hide_border=true&title_color=333333&text_color=555555" alt="Top Languages" width="30%" />
 </p>
+
 ### 📫 Get in touch
  
 - **LinkedIn:** [angel-felipe-cano-perilla](https://www.linkedin.com/in/angel-felipe-cano-perilla-3472a0396)
