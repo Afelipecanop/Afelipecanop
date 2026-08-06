@@ -22,13 +22,13 @@
  
 ## Español
  
-### 🧭 Sobre mí
+###  Sobre mí
  
 Analista de datos con **Certificado Profesional de Análisis de Datos de Google** y desarrollador web junior enfocado en soluciones e-commerce y landing pages. Experiencia práctica demostrada en proyectos reales que involucran **Python, SQL, Google BigQuery, Streamlit, Tableau, Looker**, integraciones de API y gestión de dominios.
  
 Perfil autodidacta, con pensamiento crítico y curiosidad intelectual. **Disponible de forma inmediata para trabajar en modalidad remota.**
  
-### 🛠️ Tecnologías y herramientas
+###  Tecnologías y herramientas
  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white" />
@@ -51,7 +51,7 @@ Perfil autodidacta, con pensamiento crítico y curiosidad intelectual. **Disponi
   <img src="https://img.shields.io/badge/Google%20Cloud-333333?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
-### 📌 Proyectos destacados
+###  Proyectos destacados
  
 <table>
   <tr>
@@ -60,6 +60,12 @@ Perfil autodidacta, con pensamiento crítico y curiosidad intelectual. **Disponi
       <p><b>Descripción:</b> Diseño y construcción de una plataforma web comercial de extremo a extremo, enfocada en la optimización de ventas y velocidad de carga.</p>
       <p><b>Tecnologías:</b> Desarrollo Full-Stack, gestión y negociación de dominios, integración de APIs logísticas y de ventas.</p>
       <p><b>Enfoque de datos:</b> Implementación de métricas de conversión y comportamiento de usuarios para la toma de decisiones estratégicas.</p>
+    </td>
+    <td width="50%" valing="top">
+      <h4> <a href="https://github.com/Afelipecanop/meridian">Meridian -Plataforma de landing Pages</a></h4>
+      <p><b>Descripción:</b> Plataforma SaaS de landing pages de producto único con editor visual (drag & drop), checkout dual (contra entrega / pasarela de pago) y panel de administración completo — diseñada, construida y desplegada en producción, vendiendo activamente.</p>
+      <p><b>Tecnologías:</b> Next.js (App Router) + TypeScript, Tailwind CSS, PostgreSQL (Neon) + Drizzle ORM, Auth.js, Vercel.</p>
+      <p><b>Enfoque de negocio:</b>Integración de pasarela de pago (Bold) con webhook verificado por HMAC, gestión de pedidos con estado logístico y de pago independientes, y checklist propio de despliegue en producción.</p>
     </td>
     <td width="50%" valign="top">
       <h4>📊 <a href="https://github.com/Afelipecanop/geih-labor-analysis-pipeline">Brecha Salarial de Género en Colombia (2019–2025)</a></h4>
@@ -89,13 +95,13 @@ Perfil autodidacta, con pensamiento crítico y curiosidad intelectual. **Disponi
  
 ## English
  
-### 🧭 About me
+###  About me
  
 Data analyst holding a **Google Data Analytics Professional Certificate**, and a junior web developer focused on e-commerce solutions and landing pages. Hands-on experience delivering real projects involving **Python, SQL, Google BigQuery, Streamlit, Tableau, Looker**, API integrations, and domain management.
  
 Self-taught profile with strong critical thinking and intellectual curiosity. **Immediately available for remote work.**
  
-### 🛠️ Technologies & tools
+###  Technologies & tools
  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white" />
@@ -118,7 +124,7 @@ Self-taught profile with strong critical thinking and intellectual curiosity. **
   <img src="https://img.shields.io/badge/Google%20Cloud-333333?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
-### 📌 Featured projects
+###  Featured projects
  
 <table>
   <tr>
@@ -127,6 +133,12 @@ Self-taught profile with strong critical thinking and intellectual curiosity. **
       <p><b>Description:</b> Design and end-to-end build of a commercial web platform, focused on sales optimization and load speed.</p>
       <p><b>Tech stack:</b> Full-Stack development, domain management and negotiation, integration of logistics and sales APIs.</p>
       <p><b>Data focus:</b> Implementation of conversion and user-behavior metrics to support strategic decision-making.</p>
+    </td>
+    <td width="50%" valing="top">
+      <h4> <a href="https://github.com/Afelipecanop/meridian">Meridian - Landing Page Platform</a></h4>
+      <p><b>Description:</b> Single-product landing page SaaS platform with a visual editor (drag & drop), dual checkout (cash on delivery / payment gateway), and a full admin panel — designed, built, and deployed to production, actively selling.</p>
+      <p><b>Tech stack:</b> Next.js (App Router) + TypeScript, Tailwind CSS, PostgreSQL (Neon) + Drizzle ORM, Auth.js, Vercel.</p>
+      <p><b>Business focus:</b>Payment gateway integration (Bold) with HMAC-verified webhooks, order management with independent logistics/payment statuses, and its own production deployment checklist.</p>
     </td>
     <td width="50%" valign="top">
       <h4>📊 <a href="https://github.com/Afelipecanop/geih-labor-analysis-pipeline">Gender Pay Gap in Colombia (2019–2025)</a></h4>
@@ -147,7 +159,7 @@ Self-taught profile with strong critical thinking and intellectual curiosity. **
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afelipecanop&layout=compact&theme=default&hide_border=true&title_color=333333&text_color=555555" alt="Top Languages" width="30%" />
 </p>
 
-### 📫 Get in touch
+###  Get in touch
  
 - **LinkedIn:** [angel-felipe-cano-perilla](https://www.linkedin.com/in/angel-felipe-cano-perilla-3472a0396)
 - **Portfolio / Web:** [github.com/Afelipecanop](https://github.com/Afelipecanop)
