@@ -53,21 +53,21 @@ Perfil autodidacta, con pensamiento crítico y curiosidad intelectual. **Disponi
 
 ###  Proyectos destacados
  
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>🛒 <a href="https://github.com/Afelipecanop/E-commerce-con-FastAPI-y-PostgreQSL">Velonox – Plataforma E-commerce</a></h4>
       <p><b>Descripción:</b> Diseño y construcción de una plataforma web comercial de extremo a extremo, enfocada en la optimización de ventas y velocidad de carga.</p>
       <p><b>Tecnologías:</b> Desarrollo Full-Stack, gestión y negociación de dominios, integración de APIs logísticas y de ventas.</p>
       <p><b>Enfoque de datos:</b> Implementación de métricas de conversión y comportamiento de usuarios para la toma de decisiones estratégicas.</p>
     </td>
-    <td width="50%" valing="top">
-      <h4> <a href="https://github.com/Afelipecanop/meridian">Meridian -Plataforma de landing Pages</a></h4>
+    <td width="33%" valign="top">
+      <h4>🧭 <a href="https://github.com/Afelipecanop/meridian">Meridian – Plataforma de Landing Pages</a></h4>
       <p><b>Descripción:</b> Plataforma SaaS de landing pages de producto único con editor visual (drag & drop), checkout dual (contra entrega / pasarela de pago) y panel de administración completo — diseñada, construida y desplegada en producción, vendiendo activamente.</p>
       <p><b>Tecnologías:</b> Next.js (App Router) + TypeScript, Tailwind CSS, PostgreSQL (Neon) + Drizzle ORM, Auth.js, Vercel.</p>
-      <p><b>Enfoque de negocio:</b>Integración de pasarela de pago (Bold) con webhook verificado por HMAC, gestión de pedidos con estado logístico y de pago independientes, y checklist propio de despliegue en producción.</p>
+      <p><b>Enfoque de negocio:</b> Integración de pasarela de pago (Bold) con webhook verificado por HMAC, gestión de pedidos con estado logístico y de pago independientes, y checklist propio de despliegue en producción.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>📊 <a href="https://github.com/Afelipecanop/geih-labor-analysis-pipeline">Brecha Salarial de Género en Colombia (2019–2025)</a></h4>
       <p><b>Descripción:</b> Análisis exploratorio y limpieza de datos para identificar patrones de incumplimiento crediticio.</p>
       <p><b>Tecnologías:</b> Python, SQL, Google BigQuery.</p>
