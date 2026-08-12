@@ -24,7 +24,7 @@
  
 ###  Sobre mí
  
-Analista de datos con **Certificado Profesional de Análisis de Datos de Google** y desarrollador web junior enfocado en soluciones e-commerce y landing pages. Experiencia práctica demostrada en proyectos reales que involucran **Python, SQL, Google BigQuery, Streamlit, Tableau, Looker**, integraciones de API y gestión de dominios.
+Analista de datos y desarrollador web junior enfocado en soluciones e-commerce y landing pages. Experiencia práctica demostrada en proyectos reales que involucran **Python, SQL, Google BigQuery, Streamlit, Tableau, Looker**, integraciones de API y gestión de dominios.
  
 Perfil autodidacta, con pensamiento crítico y curiosidad intelectual. **Disponible de forma inmediata para trabajar en modalidad remota.**
  
